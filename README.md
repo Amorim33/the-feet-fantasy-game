@@ -12,7 +12,7 @@ The idea is to attach sensors to tennis shoes, following the schema:
 - When the child jumps, the character jumps (lifts the both feet)
 
 ## Link for demo
-https://the-feet-fantasy-game-oiasdeas1-amorim33.vercel.app/
+https://the-feet-fantasy-game.vercel.app/
 
 ## Stack
 
