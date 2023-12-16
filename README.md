@@ -14,4 +14,13 @@ The idea is to attach sensors to tennis shoes, following the schema:
 ## Link for demo
 https://the-feet-fantasy-game-oiasdeas1-amorim33.vercel.app/
 
+## Stack
 
+- Phaser
+- Typescript
+- Webpack
+
+## References
+
+- https://phaser.io/learn
+- https://codamos.com.br/como-criar-um-jogo-usando-phaser-e-typescript/
